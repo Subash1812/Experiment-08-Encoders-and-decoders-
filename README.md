@@ -131,8 +131,5 @@ DECODER
 
 ![image](https://user-images.githubusercontent.com/123537051/215272310-dff51aaa-2557-45c1-9cdf-708c52904a93.png)
 
-
-
-
 ### RESULTS 
 thus the program to implement encoder and decoder using verilog is verified.
